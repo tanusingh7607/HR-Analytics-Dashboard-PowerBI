@@ -43,22 +43,10 @@ This project is an interactive HR Analytics Dashboard developed using Microsoft 
 ---
 
 # 🖼️ Dashboard Preview
+Dashboard screenshots are available in this repository:
 
-## Full Dashboard
-
-![Full Dashboard](Dashboard_full.png)
-
----
-
-## Interactive Filtering Example
-
-The dashboard supports dynamic filtering using slicers.
-
-Example shown below: Dashboard filtered by selected criteria.
-
-![Filtered Dashboard](Dashboard_filtered.png)
-
----
+- Dashboard_full.png
+- Dashboard_filtered.png
 
 ## 💡 Key Business Insights
 
