@@ -57,7 +57,7 @@ An interactive HR Analytics Dashboard built in Microsoft Power BI to analyze wor
 - HR_Analytics_Dashboard.pbix
 - Dashboard_full.png
 - Dashboard_filtered.png
-- Dataset.xlsx *(if shared)*
+- Dataset
 
 ---
 
@@ -65,8 +65,6 @@ An interactive HR Analytics Dashboard built in Microsoft Power BI to analyze wor
 
 **Tanu Singh**
 
-Aspiring Data Analyst
 
-- LinkedIn: https://www.linkedin.com/in/tanu-singh-76894049t
 - GitHub: https://github.com/tanusingh7607thub.com/tanusingh7607
 - Business Insights
