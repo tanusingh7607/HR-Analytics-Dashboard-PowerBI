@@ -1,8 +1,8 @@
 # HR Analytics Dashboard | Power BI
 
-## 📌 Project Overview
+## 📌 Overview
 
-This project is an interactive HR Analytics Dashboard developed using Microsoft Power BI. The dashboard helps analyze workforce performance, employee satisfaction, engagement, work-life balance, training investment, and overall HR metrics. It enables HR teams and business leaders to monitor key workforce indicators through interactive visualizations and dynamic filters.
+An interactive HR Analytics Dashboard built in Microsoft Power BI to analyze workforce performance, employee satisfaction, engagement, work-life balance, training investment, and employee distribution. The dashboard enables HR teams to make data-driven decisions through dynamic visualizations and interactive filters.
 
 ---
 
@@ -15,7 +15,7 @@ This project is an interactive HR Analytics Dashboard developed using Microsoft 
 
 ---
 
-## 📊 Key Performance Indicators (KPIs)
+## 📊 Key Metrics
 
 - Total Employees
 - Average Employee Rating
@@ -26,35 +26,16 @@ This project is an interactive HR Analytics Dashboard developed using Microsoft 
 
 ---
 
-## 📈 Dashboard Features
+## ✨ Features
 
-- Interactive slicers for dynamic filtering
-- KPI Cards
-- Employee Status Distribution
-- Gender Distribution
+- Interactive KPI Cards
+- Dynamic Slicers
+- Department-wise Performance Analysis
+- Employee Status & Gender Distribution
 - Business Unit Analysis
-- Department-wise Satisfaction Analysis
-- Department-wise Employee Rating Analysis
-- Department-wise Engagement Analysis
-- Performance Rating Distribution
 - Training Cost Analysis
 - Dynamic Key Insights
-
----
-
-# 🖼️ Dashboard Preview
-Dashboard screenshots are available in this repository:
-
-- Dashboard_full.png
-- Dashboard_filtered.png
-
-## 💡 Key Business Insights
-
-- Monitor employee satisfaction and engagement across departments.
-- Analyze workforce distribution by business unit and gender.
-- Track employee performance ratings.
-- Measure training investment across programs.
-- Identify trends that support HR decision-making.
+- Professional Dashboard Design
 
 ---
 
@@ -63,23 +44,11 @@ Dashboard screenshots are available in this repository:
 - Data Cleaning
 - Data Transformation
 - Data Modeling
-- DAX Measures
-- KPI Design
+- DAX
 - Dashboard Design
-- Interactive Visualizations
+- Data Visualization
 - Business Intelligence
 - Data Storytelling
-
----
-
-## ⭐ Project Highlights
-
-- Built a fully interactive HR Analytics Dashboard in Power BI.
-- Created dynamic KPI cards using DAX.
-- Implemented interactive slicers for real-time analysis.
-- Added dynamic business insights for better decision-making.
-- Designed a clean and professional dashboard layout.
-- Used Indian currency format (₹ Lakh) for training investment reporting.
 
 ---
 
@@ -88,8 +57,7 @@ Dashboard screenshots are available in this repository:
 - HR_Analytics_Dashboard.pbix
 - Dashboard_full.png
 - Dashboard_filtered.png
-- Dataset
-- README.md
+- Dataset.xlsx *(if shared)*
 
 ---
 
@@ -97,8 +65,8 @@ Dashboard screenshots are available in this repository:
 
 **Tanu Singh**
 
+Aspiring Data Analyst
 
-
-
-GitHub: https://github.com/tanusingh7607
+- LinkedIn: https://www.linkedin.com/in/tanu-singh-76894049t
+- GitHub: https://github.com/tanusingh7607thub.com/tanusingh7607
 - Business Insights
