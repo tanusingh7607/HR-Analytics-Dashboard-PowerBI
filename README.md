@@ -1,71 +1,48 @@
 # HR Analytics Dashboard | Power BI
 
-## 📌 Overview
+## Overview
 
-An interactive HR Analytics Dashboard built in Microsoft Power BI to analyze workforce performance, employee satisfaction, engagement, work-life balance, training investment, and employee distribution. The dashboard enables HR teams to make data-driven decisions through dynamic visualizations and interactive filters.
+An interactive HR Analytics Dashboard built using Microsoft Power BI to analyze employee performance, satisfaction, engagement, work-life balance, training investment, and workforce distribution.
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools Used
 
-- Microsoft Power BI
-- Microsoft Excel
+- Power BI
+- Excel
 - Power Query
-- DAX (Data Analysis Expressions)
+- DAX
 
 ---
 
-## 📊 Key Metrics
+## Key Metrics
 
 - Total Employees
 - Average Employee Rating
 - Average Satisfaction Score
 - Average Engagement Score
-- Average Work-Life Balance Score
+- Average Work-Life Balance
 - Training Investment (₹ Lakh)
 
 ---
 
-## ✨ Features
+## Dashboard Features
 
 - Interactive KPI Cards
 - Dynamic Slicers
-- Department-wise Performance Analysis
-- Employee Status & Gender Distribution
+- Department-wise Analysis
 - Business Unit Analysis
+- Employee Status & Gender Distribution
 - Training Cost Analysis
 - Dynamic Key Insights
-- Professional Dashboard Design
 
 ---
 
-## 🎯 Skills Demonstrated
+## Skills Demonstrated
 
 - Data Cleaning
-- Data Transformation
 - Data Modeling
 - DAX
 - Dashboard Design
 - Data Visualization
 - Business Intelligence
-- Data Storytelling
-
----
-
-## 📂 Repository Contents
-
-- HR_Analytics_Dashboard.pbix
-- Dashboard_full.png
-- Dashboard_filtered.png
-- Dataset
-
----
-
-## 👩‍💻 Author
-
-**Tanu Singh**
-
-
-
-- GitHub: https://github.com/tanusingh7607thub.com/tanusingh7607
-- Business Insights
